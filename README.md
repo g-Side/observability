@@ -1,2 +1,1 @@
-# observability
-Todos meus scripts que eu tiver de observabilidade vou guardar aqui
+Projeto para guardar todo o conteudo que eu gerar para monitoria do cartaz facil.
